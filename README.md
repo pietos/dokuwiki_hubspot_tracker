@@ -10,7 +10,7 @@ Field        | Data
 :------------|:--------------------------------------------------------------------------------------
 description  | Plugin allows you to easily track your wiki visits by Hubspot.
 author       | Pieter van Os (Made for www.netyce.com)
-email        | info@pkservices.nl
+email        | p.vanos@pkservices.nl
 type         | admin
 lastupdate   | 2020-07-20
 compatible   | binky, 2014-04-28, Detritus, Elenor of Tsort, Frusterick Manners, Greebo
