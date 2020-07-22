@@ -1,0 +1,6 @@
+base hubspot
+author Pieter van Os
+email  info@pkservices.nl
+date 2020-07-20
+name Hubspot Tracker
+desc Hubspot tracking code plugin
